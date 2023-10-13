@@ -1,2 +1,0 @@
-test_set.csv filter=lfs diff=lfs merge=lfs -text
-predicted_delta_model_sorted.csv filter=lfs diff=lfs merge=lfs -text
