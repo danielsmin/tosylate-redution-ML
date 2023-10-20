@@ -1,4 +1,7 @@
-# reduction_prediction
+# tosylate reduction ML
 
-To run the code:
-open h_learning.ipynb
+EDBO+:
+run EDBO/run.py
+
+Reduction prediction:
+run h_learning.ipynb
